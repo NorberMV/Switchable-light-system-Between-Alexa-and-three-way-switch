@@ -1,4 +1,13 @@
+/*
 
+ * Project Title : Switchable-light-system-Between-Alexa-and-three-way-switch
+ *  Description: This code allows to switching a lamp on and off in a switchable way using a 
+    manual three-Way regular switch in addition to a relay module controlled by Alexa 
+    using SinricPro IoT Cloud Platform. Part of the source example"Switch.ino" by SinricPro 
+    was modified, the original example can be found at: https://github.com/sinricpro/esp8266-esp32-sdk/tree/master/examples.
+ *  Project Author: Norberto Moreno Vélez.
+ *  17/03/2021
+  */
 
 
 
@@ -19,12 +28,12 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "NORBER245"    
-#define WIFI_PASS         "1128asgardboy"
-#define APP_KEY           "e7a78e0e-3294-479f-a44a-877b4fc604a1"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "82f7c304-4027-458c-9ca2-d869b3799d5f-37e6911c-fab1-4068-a8dc-4713ce6d66d9"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
-#define SWITCH_ID         "603fe2534392c87c6c40ec47"    // Should look like "5dc1564130xxxxxxxxxxxxxx"
-#define BAUD_RATE         115200                // Change baudrate to your need
+#define WIFI_SSID         "xxxx"    
+#define WIFI_PASS         "xxxx"
+#define APP_KEY           "xxxx"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "xxxx"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define SWITCH_ID         "xxxx"    // Should look like "5dc1564130xxxxxxxxxxxxxx"
+#define BAUD_RATE         115200   // Change baudrate to your need
 
 #define RELAY_PIN         D5                  // Pin where the relay is connected (D5 = GPIO 14 on ESP8266)
 
