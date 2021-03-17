@@ -6,7 +6,6 @@ This project allows to switching a lamp on and off in a switchable way using a m
 
 
 ## Installation
-------------
 ### Note
 1. Use the latest ESP Arduino Core!
 2. Use the latest WebSocktes library!
