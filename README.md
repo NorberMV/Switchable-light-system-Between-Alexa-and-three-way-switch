@@ -5,9 +5,9 @@
 This project allows to switching a lamp on and off in a switchable way using a manual three-Way regular switch in addition to a relay module controlled by Alexa using SinricPro IoT Cloud Platform.
 
 
-Installation
+#Installation
 ------------
-## Note
+### Note
 1. Use the latest ESP Arduino Core!
 2. Use the latest WebSocktes library!
 
