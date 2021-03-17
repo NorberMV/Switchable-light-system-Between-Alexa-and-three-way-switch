@@ -1,6 +1,6 @@
 
 # Switchable-light-system-Between-Alexa-and-three-way-switch
-=================================================================================
+
 
 This project allows to switching a lamp on and off in a switchable way using a manual three-Way regular switch in addition to a relay module controlled by Alexa using SinricPro IoT Cloud Platform.
 
