@@ -42,7 +42,7 @@ Using the SinricPro server to make a switchable interaction between Alexa and a 
 
 Pictures 
 --------
-<img src="https://github.com/NorberMV/Switchable-light-system-Between-Alexa-and-three-way-switch/blob/main/IMG_20210722_160016.jpg" width="200">
+<img src="https://github.com/NorberMV/Switchable-light-system-Between-Alexa-and-three-way-switch/blob/main/IMG_20210722_160016.jpg" width="400">
 
 Contribute
 ----------
