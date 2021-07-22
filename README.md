@@ -43,6 +43,7 @@ Using the SinricPro server to make a switchable interaction between Alexa and a 
 Pictures 
 --------
 What the first prototype looks like, when we replace the XOR gate made with the relays using a XOR chip to reduce the size of the hardware:
+
 <img src="https://github.com/NorberMV/Switchable-light-system-Between-Alexa-and-three-way-switch/blob/main/IMG_20210722_160016.jpg" width="400">
 
 Contribute
