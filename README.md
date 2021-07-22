@@ -40,6 +40,10 @@ Using the SinricPro server to make a switchable interaction between Alexa and a 
 # The Schematic:
 ![Schematic_Hydroponic](Schematic_three_way_Alexa.png ) 
 
+Pictures 
+--------
+<img src="https://github.com/NorberMV/BrewthingspeakESP8266/blob/master/IMG_20210722_160016.jpg" width="200">
+
 Contribute
 ----------
 
